@@ -1,0 +1,13 @@
+{
+    "name": "MiniIT.Snipe.Core",
+    "references": [
+		"fastJSON"
+	],
+    "optionalUnityReferences": [],
+    "excludePlatforms": [],
+	"allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

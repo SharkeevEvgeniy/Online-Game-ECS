@@ -1,0 +1,12 @@
+{
+    "name": "fastJSON",
+    "references": [
+    ],
+    "optionalUnityReferences": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

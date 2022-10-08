@@ -1,0 +1,19 @@
+{
+  "unity": "2017.1", 
+  "dependencies": {
+  }, 
+  "author": {
+    "name": "Mini IT", 
+    "url": "http://snipeserver.com"
+  }, 
+  "displayName": "Snipe Client Tools", 
+  "keywords": [
+    "Snipe", 
+    "MiniIT", 
+    "Server", 
+    "Client"
+  ], 
+  "description": "Editor utilities for Snipe", 
+  "version": "1.0.27",
+  "name": "com.miniit.snipe.tools"
+}

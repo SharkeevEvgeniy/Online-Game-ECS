@@ -1,0 +1,14 @@
+{
+    "name": "MiniIT.Snipe.Social",
+    "references": [
+		"MiniIT.Snipe.Core",
+		"MiniIT.GooglePlay"
+	],
+    "optionalUnityReferences": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

@@ -1,0 +1,19 @@
+{
+  "unity": "2017.1", 
+  "dependencies": {
+  }, 
+  "author": {
+    "name": "Mini IT", 
+    "url": "http://snipeserver.com"
+  }, 
+  "displayName": "Snipe Client", 
+  "keywords": [
+    "Snipe", 
+    "MiniIT", 
+    "Server", 
+    "Client"
+  ], 
+  "description": "Mini IT Snipe client\n\n\n==========\nServer V6\n==========\nThis release requires .Net 4.x Scripting Runtime", 
+  "version": "3.1.11", 
+  "name": "com.miniit.snipe.client"
+}
